@@ -4,5 +4,4 @@ members = [
     "postgres",
     "postgres-protocol",
     "postgres-shared",
-    "tokio-postgres"
 ]
